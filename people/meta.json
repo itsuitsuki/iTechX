@@ -1731,6 +1731,12 @@
         ],
         "teach-courses": [
             [
+                "Spring",
+                "2023",
+                "SI140A",
+                "Probability and Statistics for Information Science"
+            ],
+            [
                 "Fall",
                 "2022",
                 "SI140A",
@@ -7393,6 +7399,12 @@
         ],
         "ta-courses": [
             [
+                "Spring",
+                "2023",
+                "SI140A",
+                "Probability and Statistics for Information Science"
+            ],
+            [
                 "Fall",
                 "2022",
                 "SI140A",
@@ -7875,6 +7887,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2023",
+                "SI140A",
+                "Probability and Statistics for Information Science"
+            ],
             [
                 "Spring",
                 "2022",
@@ -10516,6 +10534,12 @@
         ],
         "ta-courses": [
             [
+                "Spring",
+                "2023",
+                "SI140A",
+                "Probability and Statistics for Information Science"
+            ],
+            [
                 "Fall",
                 "2022",
                 "SI140A",
@@ -12257,6 +12281,14 @@
                 "envelope",
                 "&#119;&#x65;&#110;&#x64;&#122;&#104;&#x40;&#115;&#104;&#97;&#x6e;&#x67;&#x68;&#x61;&#x69;&#116;&#x65;&#99;&#104;&#46;&#101;&#100;&#x75;&#46;&#x63;&#x6e;",
                 "mailto:&#119;&#101;&#x6e;&#x64;&#x7a;&#x68;&#x40;&#115;&#x68;&#x61;&#x6e;&#x67;&#x68;&#97;&#105;&#x74;&#101;&#99;&#104;&#46;&#x65;&#100;&#x75;&#46;&#x63;&#x6e;"
+            ]
+        ],
+        "teach-courses": [
+            [
+                "Spring",
+                "2023",
+                "SI140A",
+                "Probability and Statistics for Information Science"
             ]
         ]
     }
