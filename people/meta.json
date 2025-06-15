@@ -823,12 +823,6 @@
         ],
         "teach-courses": [
             [
-                "Spring",
-                "2024",
-                "CS282",
-                "Machine Learning"
-            ],
-            [
                 "Fall",
                 "2023",
                 "SI152",
@@ -1082,6 +1076,12 @@
         "teach-courses": [
             [
                 "Spring",
+                "2024",
+                "SI251",
+                "Convex Optimization"
+            ],
+            [
+                "Spring",
                 "2022",
                 "SI251",
                 "Convex Optimization"
@@ -1128,6 +1128,12 @@
             ]
         ],
         "teach-courses": [
+            [
+                "Spring",
+                "2024",
+                "SI251",
+                "Convex Optimization"
+            ],
             [
                 "Spring",
                 "2023",
