@@ -4,6 +4,24 @@
     "semesters": [
         {
             "season": "Fall",
+            "year": "2023",
+            "course_id": "CS181.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Programming Languages, Data Structures, Algorithms, Discrete Mathematics, Probability and Statistic",
+            "evaluation": "作业10% 编程作业25% 课程设计15% 期中考试25% 期末考试25%",
+            "teacher": [
+                "tukw"
+            ],
+            "ta": [
+                "wuhy1",
+                "qiaowh",
+                "zhaoyd1"
+            ]
+        },
+        {
+            "season": "Fall",
             "year": "2022",
             "course_id": "CS181.01",
             "department": "信息科学与技术学院",
