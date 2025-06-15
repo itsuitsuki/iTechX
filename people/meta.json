@@ -1075,6 +1075,12 @@
         ],
         "teach-courses": [
             [
+                "Fall",
+                "2024",
+                "SI151A",
+                "Convex Optimization and Its Applications in Information Science"
+            ],
+            [
                 "Spring",
                 "2024",
                 "SI251",
