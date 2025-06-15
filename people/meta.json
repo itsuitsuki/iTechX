@@ -191,12 +191,6 @@
         ],
         "teach-courses": [
             [
-                "Fall",
-                "2023",
-                "CS181",
-                "Artificial Intelligence I"
-            ],
-            [
                 "Spring",
                 "2023",
                 "CS274A",
@@ -966,6 +960,12 @@
             ]
         ],
         "teach-courses": [
+            [
+                "Fall",
+                "2023",
+                "CS182",
+                "Introduction to Machine Learning"
+            ],
             [
                 "Fall",
                 "2022",
@@ -2179,12 +2179,6 @@
         ],
         "ta-courses": [
             [
-                "Fall",
-                "2023",
-                "CS181",
-                "Artificial Intelligence I"
-            ],
-            [
                 "Spring",
                 "2022",
                 "SI120",
@@ -2244,12 +2238,6 @@
             ]
         ],
         "ta-courses": [
-            [
-                "Fall",
-                "2023",
-                "CS181",
-                "Artificial Intelligence I"
-            ],
             [
                 "Spring",
                 "2023",
@@ -8018,12 +8006,6 @@
         ],
         "ta-courses": [
             [
-                "Fall",
-                "2023",
-                "CS181",
-                "Artificial Intelligence I"
-            ],
-            [
                 "Spring",
                 "2022",
                 "CS110",
@@ -8848,6 +8830,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Fall",
+                "2023",
+                "CS182",
+                "Introduction to Machine Learning"
+            ],
             [
                 "Spring",
                 "2023",
@@ -12343,24 +12331,6 @@
                 "2023",
                 "SI140A",
                 "Probability and Statistics for Information Science"
-            ]
-        ]
-    },
-    "jipy2023": {
-        "name": "吉鹏宇",
-        "info": [
-            [
-                "envelope",
-                "&#x6a;&#x69;&#112;&#x79;&#50;&#48;&#50;&#51;&#x40;&#115;&#x68;&#97;&#x6e;&#x67;&#x68;&#x61;&#105;&#x74;&#101;&#x63;&#x68;&#46;&#x65;&#100;&#117;&#x2e;&#x63;&#x6e;",
-                "mailto:&#106;&#105;&#x70;&#121;&#x32;&#x30;&#50;&#51;&#64;&#115;&#104;&#97;&#110;&#x67;&#x68;&#x61;&#x69;&#116;&#x65;&#x63;&#x68;&#46;&#x65;&#100;&#x75;&#x2e;&#99;&#110;"
-            ]
-        ],
-        "ta-courses": [
-            [
-                "Fall",
-                "2023",
-                "CS181",
-                "Artificial Intelligence I"
             ]
         ]
     }
