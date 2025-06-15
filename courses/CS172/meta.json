@@ -3,6 +3,22 @@
     "name": "Computer Vision I",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2023",
+            "course_id": "CS172.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "Linear algebra, basic calculus, and probability",
+            "evaluation": "未知",
+            "teacher": [
+                "gaoshh"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        },
+        {
             "course_id": "CS172.01",
             "season": "Fall",
             "year": "2021",
