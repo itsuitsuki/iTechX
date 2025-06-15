@@ -679,12 +679,6 @@
         ],
         "teach-courses": [
             [
-                "Spring",
-                "2024",
-                "CS240",
-                "Algorithm Design and Analysis"
-            ],
-            [
                 "Fall",
                 "2022",
                 "CS121",
@@ -1503,6 +1497,12 @@
             ]
         ],
         "teach-courses": [
+            [
+                "Spring",
+                "2024",
+                "CS270",
+                "Digital Image Processing"
+            ],
             [
                 "Fall",
                 "2022",
@@ -4247,12 +4247,6 @@
             ]
         ],
         "ta-courses": [
-            [
-                "Spring",
-                "2024",
-                "CS240",
-                "Algorithm Design and Analysis"
-            ],
             [
                 "Spring",
                 "2021",
