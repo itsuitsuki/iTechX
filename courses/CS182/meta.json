@@ -58,5 +58,6 @@
             "prerequisite": "Computer Science (OOP and Data Structure, Algorithm Design and Analysis), Mathematics (Multivariable Calculus, Linear Algebra and Matrix Analysis, Probability and Statistics)",
             "evaluation": "5 Problem sets with programming (30%), 3h Final exam (40%), Final project (30%)"
         }
-    ]
+    ],
+    "status": "activate"
 }
