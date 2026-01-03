@@ -1,4 +1,22 @@
 {
     "code": "CHEM1103",
-    "name": "General Chemistry I"
+    "name": "General Chemistry I",
+    "semesters": [
+        {
+            "season": "Fall",
+            "year": "2025",
+            "course_id": "CHEM1103.03",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "无",
+            "evaluation": "未知",
+            "teacher": [
+                "xiejin"
+            ],
+            "ta": [
+                "unknown"
+            ]
+        }
+    ]
 }
